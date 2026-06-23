@@ -67,6 +67,7 @@ Gömülü sistemler, IoT, sensör sistemleri, PCB tasarımı, güç elektroniği
 <p>
   <img src="https://img.shields.io/badge/Altium_Designer-C8102E?style=flat-square&logo=altium&logoColor=white" alt="Altium">
   <img src="https://img.shields.io/badge/KiCad-1575F4?style=flat-square&logo=kicad&logoColor=white" alt="KiCad">
+  <img src="https://img.shields.io/badge/EAGLE-1565C0?style=flat-square&logo=autodesk&logoColor=white" alt="EAGLE">
   <img src="https://img.shields.io/badge/AutoCAD-E21A22?style=flat-square&logo=autodesk&logoColor=white" alt="AutoCAD">
 </p>
 </details>
