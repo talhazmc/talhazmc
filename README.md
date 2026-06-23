@@ -87,9 +87,3 @@ Gömülü sistemler, IoT, sensör sistemleri, PCB tasarımı, güç elektroniği
 * 🌿 **Smart Agriculture:** ESP32-based automated irrigation system with sensor arrays.
 * 🔐 **Security Systems:** Arduino-backed RFID electronic door lock mechanism.
 * 💡 **Smart Lighting:** Sound and Bluetooth-controlled NeoPixel LED drivers.
-
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=talhazmc&show_icons=true&theme=tokyonight&count_private=true" alt="Talha's GitHub Stats" />
-</div>
